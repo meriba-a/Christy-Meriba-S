@@ -64,3 +64,7 @@ Focus: C++ • DSA
 🚀 Build and deploy real-world web projects
 🌍 Publish a live portfolio site
 🤝 Contribute to open source
+
+ Connect with me
+ linkedln- Christy Meriba
+ 
