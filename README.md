@@ -1,4 +1,4 @@
-👋 Hi, I'm Christy Meriba |AI Engineer |Real world 
+👋 Hi, I'm Christy Meriba |AI Engineer | vibe coder
 
 📖 About Me
 🎓 Information Technology student building a strong foundation in Ai engineering and software.
