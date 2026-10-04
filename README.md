@@ -1,7 +1,7 @@
 👋 Hi, I'm Christy Meriba |AI Engineer | vibe coder
 
 📖 About Me
-🎓 Information Technology student building a strong foundation in Ai engineering and software.
+🎓 Information Technology student building a strong foundation in AI engineering and software.
 
 🌐 Core Target: Working toward becoming an AI Engineer, with interests in responsive UI, REST APIs, and AI-powered web apps.
 
