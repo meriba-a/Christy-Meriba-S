@@ -1,24 +1,24 @@
-👋 Hi, I'm Christy Meriba | Web Developer | JavaScript & Node.js
+👋 Hi, I'm Christy Meriba |AI Engineer |Real world 
 
 📖 About Me
-🎓 Information Technology student building a strong foundation in web development and software engineering.
+🎓 Information Technology student building a strong foundation in Ai engineering and software.
 
-🌐 Core Target: Working toward becoming a Web Developer (full-stack), with interests in responsive UI, REST APIs, and AI-powered web apps.
+🌐 Core Target: Working toward becoming an AI Engineer, with interests in responsive UI, REST APIs, and AI-powered web apps.
 
-💻 Programming: JavaScript, HTML, CSS, Node.js, Python, C/C++
+💻 Programming: JavaScript, HTML, CSS, Python, C/C++
 
 🚀 Project Focus: Building practical, deployed web projects that combine frontend, backend, APIs, and AI.
 
-📚 Currently Learning: React, Node.js & Express, REST APIs, databases, and DSA for problem solving.
+📚 CurrentlyLearning: advanced Python,REST APIs, databases, and DSA for problem solving.
 
-💬 Ask me about: JavaScript, web development, APIs, C/C++, and beginner DSA.
+💬 Ask me about:  web development, C/C++, and beginner DSA.
 
 ⚡ Fun fact: I enjoy taking an idea and turning it into something that actually works in the browser.
 
 🛠️ Technologies & Tools
 
 💻 Languages
-JavaScript | Python | C | C++
+ Python | C | C++
 
 🎨 Frontend
 HTML | CSS | JavaScript | Responsive Design | (React, in progress)
@@ -37,10 +37,6 @@ Git | GitHub | VS Code | Linux | Chrome DevTools
 🤖 AI Study Assistant
 A web app that helps students organize and interact with their learning material using AI.
 Focus: Frontend • Node.js • AI APIs
-
-🌐 REST API Projects
-Backend projects covering routing, HTTP methods, and client-server communication.
-Focus: Node.js • Express • REST
 
 🎨 Frontend / Portfolio Projects
 Responsive, clean web interfaces built with HTML, CSS, and JavaScript.
