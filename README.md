@@ -1,67 +1,70 @@
-
-👋 Hi, I'm Christy Meriba
-☁️ Aspiring Cloud Engineer | AI & Backend Enthusiast | C++ & DSA Learner
+👋 Hi, I'm Christy Meriba | Web Developer | JavaScript & Node.js
 
 📖 About Me
-🎓 Information technology Student building a strong foundation in software development and cloud technologies.
+🎓 Information Technology student building a strong foundation in web development and software engineering.
 
-☁️ Core Target: Working toward becoming a Cloud Engineer, with interests in backend development, system design, and AI-powered applications.
+🌐 Core Target: Working toward becoming a Web Developer (full-stack), with interests in responsive UI, REST APIs, and AI-powered web apps.
 
-💻 Programming: C, C++, Python, JavaScript, and backend development.
+💻 Programming: JavaScript, HTML, CSS, Node.js, Python, C/C++
 
-🚀 Project Focus: Building practical projects that combine software development, APIs, AI, and cloud technologies.
+🚀 Project Focus: Building practical, deployed web projects that combine frontend, backend, APIs, and AI.
 
-📚 Currently Learning: Node.js, REST APIs, Data Structures & Algorithms, backend fundamentals, and cloud computing.
+📚 Currently Learning: React, Node.js & Express, REST APIs, databases, and DSA for problem solving.
 
-💬 Ask me about: C/C++, programming fundamentals, beginner DSA, web development, APIs, and cloud computing.
+💬 Ask me about: JavaScript, web development, APIs, C/C++, and beginner DSA.
 
-⚡ Fun fact: I enjoy taking an idea and figuring out how to turn it into something that actually works.
+⚡ Fun fact: I enjoy taking an idea and turning it into something that actually works in the browser.
 
 🛠️ Technologies & Tools
-💻 Languages
-C C++ Python JavaScript
-🌐 Web & Backend
-HTML CSS JavaScript Node.js REST APIs
 
-☁️ Cloud & Systems
-Cloud Computing System Design Linux Git
+💻 Languages
+JavaScript | Python | C | C++
+
+🎨 Frontend
+HTML | CSS | JavaScript | Responsive Design | (React, in progress)
+
+⚙️ Backend
+Node.js | Express | REST APIs | (SQL/MongoDB, in progress)
+
 🧠 Core Concepts
-Data Structures & Algorithms Problem Solving APIs Backend Development
+Data Structures & Algorithms | Problem Solving | HTTP | API Design
 
 🔧 Tools
-Git GitHub VS Code
+Git | GitHub | VS Code | Linux | Chrome DevTools
 
-📌 Featured Repositories
+📌 Featured Projects
+
 🤖 AI Study Assistant
-An AI-powered study project designed to help students organize and interact with their learning material.
+A web app that helps students organize and interact with their learning material using AI.
+Focus: Frontend • Node.js • AI APIs
 
-Focus: AI • Web Development • APIs
-💻 C++ DSA Projects
-A collection of Data Structures & Algorithms implementations and problem-solving exercises.
+🌐 REST API Projects
+Backend projects covering routing, HTTP methods, and client-server communication.
+Focus: Node.js • Express • REST
 
-Focus: C++ • DSA • Problem Solving
-🌐 Backend & API Projects
-Projects focused on learning how applications communicate with servers and APIs.
+🎨 Frontend / Portfolio Projects
+Responsive, clean web interfaces built with HTML, CSS, and JavaScript.
+Focus: UI • Responsive Design • JavaScript
 
-Focus: Node.js • REST APIs • Backend Development
+💻 C++ DSA Practice
+Algorithm and data structure implementations to sharpen problem solving.
+Focus: C++ • DSA
+
 🗺️ Career Roadmap
-🟩 [COMPLETED] Build strong programming fundamentals
-→ C • C++ • Python
-🔵 [IN PROGRESS] Strengthen DSA and problem solving
-→ Arrays • Strings • Algorithms • Data Structures
-🔵 [IN PROGRESS] Learn backend development
-→ Node.js • APIs • HTTP • REST
-🎯 [NEXT] Build full-stack and AI-powered projects
-→ Frontend • Backend • AI APIs
-🎯 [NEXT] Learn cloud platforms
-→ AWS • Azure • GCP
-🚀 [LONG-TERM] Become a Cloud Engineer
-→ Cloud Architecture • System Design • DevOps • Scalable Applications
-🏆 Goals & Achievements
+🟩 [COMPLETED] Programming fundamentals
+→ C • C++ • Python • JavaScript
+🔵 [IN PROGRESS] Backend development
+→ Node.js • Express • APIs • HTTP
+🔵 [IN PROGRESS] Frontend frameworks
+→ React • State management • Component design
+🎯 [NEXT] Build and deploy full-stack projects
+→ Frontend • Backend • Database • Hosting
+🎯 [NEXT] Strengthen DSA for interviews
+→ Arrays • Strings • Trees • Algorithms
+🚀 [LONG-TERM] Become a professional Web Developer
+→ Full-stack • Performance • Testing • Deployment
 
-🚀 Build and publish real-world projects
-💻 Develop strong DSA and programming skills
-🌐 Gain practical backend development experience
-☁️ Build hands-on cloud projects
-🤖 Explore AI + Cloud applications
-📚 Continuously expand my technical skills
+🏆 Goals & Achievements
+🚀 Build and deploy real-world web projects
+🌍 Publish a live portfolio site
+🤝 Contribute to open source
