@@ -66,5 +66,5 @@ Focus: C++ • DSA
 🤝 Contribute to open source
 
  Connect with me
- linkedln- Christy Meriba
+ linkedln- www.linkedln.com/in/christy-meriba-a37060441
  
